@@ -27,23 +27,11 @@ The Car Renting Service is an easy-to-use web application that allows users to b
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/car-renting-service.git
+   git clone https://github.com/Prathmeshpawar21/web-car-rent.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd car-renting-service
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
+   cd web-car-rent
    ```
 
 ## Deployment
