@@ -8,7 +8,7 @@ The Car Renting Service is an easy-to-use web application that allows users to b
 
 ## Screenshot
 
-![Car Renting Service Screenshot](./images/carrent.png)
+![Car Renting Service Screenshot](./img/carrent.png)
 
 ## Features
 
